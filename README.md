@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **ReactJS**
 
-- 📫 How to reach me **pgamesdev1@gmail.com**
+- 📫 How to reach me **petromirdev@gmail.com**
 
 - 📄 Know about my experiences [https://petromir.dev](https://petromir.dev)
 
