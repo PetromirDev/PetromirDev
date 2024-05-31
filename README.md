@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petromirdev&label=Profile%20views&color=0e75b6&style=flat" alt="petromirdev" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://petromir.dev](https://petromir.dev)
+- 👨‍💻 All of my projects are available at [https://petromirp.dev](https://petromirp.dev)
 
 - 💬 Ask me about **ReactJS**
 
 - 📫 How to reach me **petromirdev@gmail.com**
 
-- 📄 Know about my experiences [https://petromir.dev](https://petromir.dev)
+- 📄 Know about my experiences [https://petromirp.dev](https://petromirp.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
