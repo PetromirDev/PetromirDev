@@ -47,7 +47,7 @@ You can read more about me on <a href="https://petromir.dev" target="_blank">my 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/petromirdev/petromirdev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/PetromirDev/PetromirDev/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 
 ###
