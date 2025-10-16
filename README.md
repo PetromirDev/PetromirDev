@@ -13,16 +13,24 @@ You can read more about me on <a href="https://petromir.dev" target="_blank">my 
 
 ```json
 {
-  "frontend": [
+  "techstack": [
     "Next.js",
     "React",
-    "CSS3",
-    "HTML5",
+    "React Native",
+    "Viem",
+    "Ethers.js",
+    "Webpack",
+    "Babel",
+    "Jest",
+    "Chrome Extensions",
+    "Firefox Add-ons",
+    "Ghost",
     "Tailwind",
-    "Sass"
-  ],
-  "mobile": [
-    "React Native"
+    "shadcn",
+    "Sass",
+    "TypeScript",
+    "Firebase",
+    "Supabase"
   ],
 }
 ```
