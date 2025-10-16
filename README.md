@@ -8,7 +8,8 @@ You can read more about me on <a href="https://petromir.dev" target="_blank">my 
 
 <img src="https://github-readme-stats.vercel.app/api?username=petromirdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula" height="150" alt="stats graph"  />
 
-###
+<br>
+<br>
 
 <h2 align="left">Tech stack</h2>
 
@@ -36,10 +37,9 @@ You can read more about me on <a href="https://petromir.dev" target="_blank">my 
 }
 ```
 
-###
+<br>
 
 <h2 align="left">You can reach me on</h2>
-
 <div align="left">
   <a href="https://discord.com/users/336962546122752000" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
@@ -52,10 +52,7 @@ You can read more about me on <a href="https://petromir.dev" target="_blank">my 
   </a>
 </div>
 
-###
+<br>
 
 <h2 align="left">Contributions graph (see it before it's gone)</h2>
 <img src="https://raw.githubusercontent.com/PetromirDev/PetromirDev/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-
-###
