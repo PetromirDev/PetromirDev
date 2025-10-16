@@ -31,7 +31,7 @@ You can read more about me on <a href="https://petromir.dev" target="_blank">my 
     "TypeScript",
     "Firebase",
     "Supabase"
-  ],
+  ]
 }
 ```
 
