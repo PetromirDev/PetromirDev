@@ -9,9 +9,6 @@ You can read more about me on <a href="https://petromir.dev" target="_blank">my 
 
 <img src="https://github-readme-stats.vercel.app/api?username=petromirdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula" height="150" alt="stats graph"  />
 
-<br>
-<br>
-
 <h2 align="left">Tech stack</h2>
 
 ```json
