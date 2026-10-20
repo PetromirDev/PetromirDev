@@ -5,7 +5,8 @@ I'm a pragmatic <b>React developer</b> who champions privacy, accessibility and 
 I'm currently working at <a href="https://goodmorning.dev" target="_blank">goodmorning.dev</a> on <a href="https://ambire.com" target="_blank">Ambire</a> - the best crypto wallet extension. You are missing out big time if you haven't tried it 🦥<br><br>
 You can read more about me on <a href="https://petromir.dev" target="_blank">my personal website</a>.
 
-<br clear="both">
+<br>
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=petromirdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula" height="150" alt="stats graph"  />
 
